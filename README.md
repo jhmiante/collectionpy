@@ -13,3 +13,7 @@
 <p class="mt-2 border border-4 p-2 text-primary">pip install collectionpy</p>
 
 <hr>
+
+<ul>
+<li><b>V 1.3.0</b> Adicionado Validação de CPF e CNPJ</li>
+</ul>
